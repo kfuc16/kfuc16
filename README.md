@@ -1,0 +1,7 @@
+- 👋 Hello, I'm @kfuc16
+- 👀 I am interested in programming
+- 🌱 I am currently learning as a public employee
+- 💞️ I am looking to collaborate on any java, html, css, JavaScript project.
+- 📫 How to contact me: @kfuc16@gmail.com
+- 😄 Pronouns: kfuc16
+- ⚡ Fun fact: none.
